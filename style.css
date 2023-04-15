@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    margin: 0 auto;
+    width: 431px;
+}
+.canvas {
+    margin-top: 85px;
+    background-color: skyblue;
+}
+.btn {
+    position: absolute;
+    background-color: transparent;
+    border: none;  
+    left: 46%;
+    top: 45%;
+}
+.none{
+    display: none;
+}
