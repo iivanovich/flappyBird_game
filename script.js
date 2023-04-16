@@ -4,7 +4,7 @@ const imgURL = "https://i.ibb.co/Q9yv5Jk/flappy-bird-set.png";
 const canvas = document.querySelector(".canvas");
 const ctx = canvas.getContext("2d");
 
-
+localStorage.clear();
 
 // Кнопка перезагрузки игры
 const btn = document.querySelector(".btn");
